@@ -6,7 +6,7 @@ Création d'une application C# permettant de reproduire les fonctions d'une calc
 
 Télécharger l'ensemble et lancer **Calculatrice.sln** pour le projet.
 
-Aller dans la partie "Release" et télécharger l'exécutable pour l'application.
+Aller dans la partie [Release](https://github.com/VivienFreb/Calculatrice/releases) et télécharger l'exécutable pour l'application.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
