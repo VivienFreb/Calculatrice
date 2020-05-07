@@ -1,0 +1,50 @@
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojResolveAssemblyReference.cache
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+c:\users\toofat\source\repos\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+D:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+E:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Users\SLAM-SIO\Desktop\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe.config
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.exe
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\bin\Debug\Calculatrice.pdb
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Calculatrice.resources
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.Cache
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.exe
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.pdb
+F:\ANNEE 2\SLAM\MERCY\Développement\Calculatrice\Calculatrice\obj\Debug\Calculatrice.csprojAssemblyReference.cache
